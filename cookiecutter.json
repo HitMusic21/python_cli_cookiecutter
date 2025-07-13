@@ -1,0 +1,5 @@
+{
+    "project_name": "Antplify Backend Toolkit",
+    "project_snake": "{{ cookiecutter.project_name | slugify(separator='_') }}",
+    "cli_entrypoint": "antplify"
+}
