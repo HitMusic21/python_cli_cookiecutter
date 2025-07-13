@@ -1,5 +1,5 @@
 import pathlib
-from pycli.config import settings
+from {{cookiecutter.project_snake}}.config import settings
 
 
 def test_project_root():
